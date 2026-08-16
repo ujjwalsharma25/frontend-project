@@ -47,7 +47,7 @@ Here is a breakdown of the mini-applications included in this workspace:
 * **Data Persistence:** Browser LocalStorage.
 
 ---
-
+🙌 Keep learning and keep growing! If you find this learning repository helpful, don't forget to leave a ⭐!
 
 ---
 Connect with me on **[GitHub](https://github.com)** ✨
